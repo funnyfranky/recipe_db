@@ -6,9 +6,7 @@ I have created a schema for a cloud database that can be hosted and accessed on 
 
 I did this because I don't currently have a good solution to saving and retrieving good recipes. Currently I use a notes app where I have meticulously typed all recipe data in, and half the time I get measurements wrong because it's a non-standardized format.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/C2mk7ufEsek)
 
 # Cloud Database
 
